@@ -1,0 +1,41 @@
+{
+
+  "type":         "module",
+  "name":         "@teamcoder/notsamesizevalidator",
+  "version":      "1.0.0",
+  "description":  "This module is small but easy to use. The purpose of this module is to check if the target string is length are not equals the source string length. It can compare strings and arrays.",
+  "main":         "notsamesizevalidator.js",
+
+  "keywords": [
+                  "value",
+                  "string",
+                  "not",
+                  "equal",
+                  "lenght",
+                  "array",
+                  "validator",
+                  "node.js",
+                  "javascript"
+  ],
+
+  "author":       "CreepyCoderMC",
+  "license":      "CC-BY-NC-ND-4.0",
+  "homepage":     "https://github.com/CreepyCoderMC",
+  "url":          "https://github.com/CreepyCoderMC/notsamesizevalidator/issues",
+  "email":        "creepycodermc@gmail.com",
+
+  "funding": {
+    "type":       "PayPal Donation",
+    "url":        "https://www.paypal.com/donate/?hosted_button_id=NNPJXD2CLSXRA"
+  },
+
+  "repository": {
+    "type":       "git",
+    "url":        "https://github.com/CreepyCoderMC/notsamesizevalidator"
+  },
+
+  "scripts": {
+    "test":       "node test.js"
+  }
+
+}
